@@ -7,20 +7,20 @@ Am I embarassed, oh yes! However, it's worth working through my solutions and ho
 
 ### Submitted HackerRank code: interview-fail.cpp 
 * O(n^3)!? If this every ran properlly, it would be terrible.
-* Why? That timer! Anxiety force me to rush and make mistakes.
-* Biggest Mistake: NOT taking the time to think through the problem in advance, regardless of time
+* Lesson Learned Mistake: NOT taking the time to think through the problem in advance. Forget the clock and kick anxiety to the curb!
 
 ### Email Second Version: interview2.cpp 
 * Time Complexity: O(n^2)
-* Ate lunch and tried at again (timed). Functional, but not within 45 minute limit.
+* Ate lunch and tried at it again (timed). Food solves many things. :-)
+* Functional, but not within 45 minute limit.
 * Took more time to think through BEFORE writing code.
 * No access to original problem. Lingering question regardnig input/output requirements and space usage led me to aa manually coded sorted linked list data structure.
 
 ### Morning before Interview: interview-200401.cpp
 * Time Complexity: O(n log(n))   (now that's more like it!)
-* Perfect example taking time to approach a problem with a step by step plan. Some of my thinking was left as comments.
-* Used existing C++ map container which is based on a BST (I believe). 
-* Much faster now and didn't take much longer to code that previous versions.
+* Perfect example taking time to approach a problem with a step by step plan. Left some of my thinking as comments.
+* Used existing C++ map container, which is based on a BST (I believe). 
+* Much faster now and didn't take much longer to code than previous versions.
 
 ## Hacker Rank Code
 ```
