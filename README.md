@@ -9,7 +9,7 @@ Am I embarassed, oh yes! However, it's worth working through my solutions and ho
 * O(n^3)!? If this every ran properlly, it would be terrible.
 * Lesson Learned Mistake: NOT taking the time to think through the problem in advance. Forget the clock and kick anxiety to the curb!
 
-### Email Second Version: interview2.cpp 
+### Second Version (emailed via Sonia): interview2.cpp 
 * Time Complexity: O(n^2)
 * Ate lunch and tried at it again (timed). Food solves many things. :-)
 * Functional, but not within 45 minute limit.
